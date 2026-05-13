@@ -1,4 +1,6 @@
-pip install langchain langchain-community langchain-core
+pip install langchain 
+pip install langchain-community 
+pip install langchain-core
 pip install chromadb
 pip install pypdf
 pip install sentence-transformers
